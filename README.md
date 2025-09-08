@@ -27,7 +27,7 @@ Using the app is designed to be seamless and friction-free:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **Instant NFC Activation**: Just a tap to get started. No need to open the app and manually set a timer.
 * **Minimalist Interface**: Designed to be clean and non-intrusive during study or work sessions.
