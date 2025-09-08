@@ -1,4 +1,4 @@
-# 🎯 [APP NAME] - NFC Focus Timer
+# 🎯 [NoAdd] - NFC Focus Timer
 
 [![Swift](https://img.shields.io/badge/Swift-5.7-orange.svg)](https://swift.org/)
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)](https://www.apple.com/ios/)
